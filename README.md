@@ -9,7 +9,7 @@ Full-stack developer who ships complete products end-to-end — from REST API de
 | App | What it does | Stack | Live |
 |-----|-------------|-------|------|
 | **KaviosPix** | Photo management with Google OAuth, album sharing, Cloudinary uploads & permission-based access control | React · Redux Toolkit · Node · MongoDB · Cloudinary · Tailwind | [→ Live](https://image-app-frontend-mu.vercel.app/) |
-| **WorkAssign** | Task management with JWT auth, teams, projects & reports | React · Node · MongoDB · Tailwind · JWT | [→ Live](https://work-assign-frontend.vercel.app/) |
+| **WorkAssign** | Task management with JWT auth, teams, projects & reports | React · Node · MongoDB · Tailwind · JWT | [→ Live](https://work-assign-frontend-6wjt.vercel.app/) |
 | **Anvaya CRM** | Lead & customer tracking with agents, tags & follow-ups | React · Node · MongoDB · Bootstrap | [→ Live](https://crm-frontend-ten-nu.vercel.app/) |
 | **Merze** | E-commerce storefront with cart & checkout | React · Node · MongoDB | [→ Live](https://my-ecommerce-frontend-khaki.vercel.app/) |
 
